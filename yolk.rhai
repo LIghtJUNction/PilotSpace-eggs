@@ -21,5 +21,10 @@ export let eggs = #{
             ".zim": "~/.zim",
         },
         main_file: ".zimrc"
-    }
+    },
+    quickshell: #{
+        targets: #{
+            "pilotspace": "~/.config/quickshell/pilotspace",
+        },
+    },
 };
